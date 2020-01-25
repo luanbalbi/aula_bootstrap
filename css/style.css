@@ -1,5 +1,5 @@
 nav {
-    background-color: rgb(182, 224, 210);
+    background-color: silver;
 }
 
 .quem-somos {
@@ -7,5 +7,23 @@ nav {
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.parceiros {
+    background-color: rgb(230, 138, 76);
+}
+
+.servicos {
+    background-color: rgb(157, 217, 245);
+}
+
+h3 {
+    padding-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: blanchedalmond;
 }
